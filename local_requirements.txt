@@ -1,0 +1,9 @@
+python-dotenv
+ccxt
+scikit-learn
+numpy
+google-cloud-storage
+pandas
+lightgbm
+functions-framework
+seaborn

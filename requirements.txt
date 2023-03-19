@@ -1,0 +1,8 @@
+python-dotenv
+ccxt
+scikit-learn
+numpy
+google-cloud-storage
+pandas
+TA-lib-bin
+lightgbm
